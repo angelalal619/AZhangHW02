@@ -343,8 +343,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = YM5VS69AEY;
 				INFOPLIST_FILE = "You Are Awesome/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "iOS.You-Are-Awesome";
+				PRODUCT_BUNDLE_IDENTIFIER = "Angela-Zhang-iOS.You-Are-Awesome";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -356,8 +357,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = YM5VS69AEY;
 				INFOPLIST_FILE = "You Are Awesome/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "iOS.You-Are-Awesome";
+				PRODUCT_BUNDLE_IDENTIFIER = "Angela-Zhang-iOS.You-Are-Awesome";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -412,6 +414,7 @@
 				0BF751C71E3192A70093B837 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0BF751C81E3192A70093B837 /* Build configuration list for PBXNativeTarget "You Are AwesomeTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +423,7 @@
 				0BF751CA1E3192A70093B837 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
